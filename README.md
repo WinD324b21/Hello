@@ -1,4 +1,4 @@
-# Hello World by WD
+# Hello World
 list : 
 #Git
 #Maven
